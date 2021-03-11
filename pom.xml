@@ -48,7 +48,7 @@
         <!-- Camel versions -->
         <version.apache.camel>2.19.0</version.apache.camel>
         <version.apache.lucene>5.5.2</version.apache.lucene>
-        <version.asynchttpclient>2.0.32</version.asynchttpclient>
+        <version.asynchttpclient>2.0.35</version.asynchttpclient>
 
         <!-- [#1702] Upgrade to netty-4.1.9 -->
         <version.io.netty>4.1.8.Final</version.io.netty> 
