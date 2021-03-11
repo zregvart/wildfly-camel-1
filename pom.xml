@@ -68,7 +68,7 @@
         <version.apache.felix.scr>1.6.2</version.apache.felix.scr>
         <version.apache.felix.scr.ds.annotations>1.2.4</version.apache.felix.scr.ds.annotations>
         <version.apache.ftpserver>1.0.6</version.apache.ftpserver>
-        <version.apache.qpid>6.1.2</version.apache.qpid>
+        <version.apache.qpid>6.1.5</version.apache.qpid>
         <version.apache.qpid.proton>0.16.0</version.apache.qpid.proton>
         <version.apache.httpcomponents>4.5.2</version.apache.httpcomponents>
         <version.apache.karaf>2.4.3</version.apache.karaf>
